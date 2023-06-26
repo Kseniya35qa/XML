@@ -1,1 +1,12 @@
 
+<ID>20</ID>
+<Severity>Major</Severity>
+<Environment>Vivo V21 Android 13</Environment>
+<Title>Cryptogram link is not redirected to Google play and  error message appears in Our products section after tapping Cryptogram link</Title>
+<Precondition>1.ComiCoin app is downloaded
+              2. Launch app</Precondition>
+<Steps>1.Tap burger menu 
+       2.Tap Our products section
+       3. Tap Cryptogram link</Steps>
+  <Actual result>Cryptogram link is not redirected to Google play and  error message appears:net::ERR_CONNECTION_CLOSED</Actual result>
+  <Expected result>The app is redirected to Google play</Expected result>
